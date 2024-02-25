@@ -1,9 +1,5 @@
 # Base Monitor Service
 
-## Introduction
-
-Base Monitor Service is a foundational tool designed to provide monitoring capabilities.
-
 ## Features
 
 - Baseline repository for creating a multi-threaded application for crawling the internet

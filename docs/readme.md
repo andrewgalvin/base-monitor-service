@@ -9,6 +9,7 @@
 ### Prerequisites
 
 - Go 1.20
+- Database connection (repo uses MongoDB)
 
 ### Installation
 
